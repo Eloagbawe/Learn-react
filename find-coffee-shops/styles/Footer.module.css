@@ -1,0 +1,15 @@
+.footer {
+    display: flex;
+    flex: 1;
+    padding: 2rem 0;
+    /* border-top: 1px solid #eaeaea; */
+    justify-content: center;
+    align-items: center;
+    /* position: fixed;
+    bottom: 0%;
+    left: 40%; */
+  }
+  .logo {
+    height: 1em;
+    margin-left: 0.5rem;
+  }
